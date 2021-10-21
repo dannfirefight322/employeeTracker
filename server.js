@@ -1,8 +1,7 @@
 //dependencies required
-const mysql = require("mysql");
+const mysql = require("mysql12");
 const inquirer = require("inquirer");
 require("console.table");
-//const sql = require("./sql");
 
 //mysql connection
 const connection = mysql.createConnection({
@@ -15,7 +14,7 @@ const connection = mysql.createConnection({
     user: 'root',
 
     // Your password
-    password: 'PlacePassWordHere',
+    password: 'D@Nsamm2020',
     database: 'employeesDB'
 });
 
@@ -440,3 +439,6 @@ function promptAddRole(departmentChoices) {
 
           firstPrompt();
         });
+
+    });
+}
