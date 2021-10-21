@@ -442,3 +442,4 @@ function promptAddRole(departmentChoices) {
 
     });
 }
+init();
