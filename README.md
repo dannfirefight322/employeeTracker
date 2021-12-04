@@ -9,7 +9,7 @@
   7.[Questions](#ques)</br> 
   # <span id="desc"></span>
   # Description
-  ### This was an assignment to build an employee tracker using mysql, I was not able to figure out how to get the code to function correctly.
+  ### This was an assignment to build an employee tracker using mysql.
   # <span id="install"></span>
   # Install Information
   ### No specfic installation instructions, Unless you would like to pull the repo and build on my existing code.
@@ -21,7 +21,7 @@
   ### Daniel Burford
   # <span id="test"></span>
   # Testing Information
-  ### I tested by using trial and error. but did not figure out how to get the code to function correctly
+  ### I tested by using trial and error.
   # <span id="lic"></span>
   # License
   ### 
